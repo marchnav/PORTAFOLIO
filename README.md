@@ -8,13 +8,15 @@
 
 ## 👋 Presentación breve
 
-Soy **Marcelo Navarrete**, desarrollador y consultor en analítica de datos y seguridad web. Me muevo entre **Django/Python**, **NGINX/DevOps básico**, y **Front‑End moderno** (Tailwind/React). Disfruto construir productos **claros**, **accesibles** y **listos para producción**, con especial atención a **CSP**, **headers de seguridad** y **buenas prácticas**.
+Soy **Marcelo Navarrete**, Ingeniero en Administración Pública, director ejecutivo en **dataprospectiva.cl**, profesional con sólida formación en formulación y evaluación de proyectos, gestión presupuestaria, compras públicas y desarrollo de soluciones digitales. Me mueven los productos útiles: claros, seguros y medibles. Aplico criterios de política pública y compliance para que la tecnología no solo funcione, sino que cumpla y genere valor real para personas y organizaciones.
+
+Filosofía: orientar cada decisión a valor público y de negocio, con evidencia, gobernanza, criterio y responsabilidad. Ética sin atajos, equipos cuidados y mejora continua como sistema, no como evento.
 
 - 🌎 Valdivia, Chile
 - 🎯 Intereses: seguridad aplicada, automatización ligera, UX limpia, cumplimiento normativo (Chile)
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/) · [Email](mailto:tu-email@ejemplo.com) · [Web](https://tu-dominio-ejemplo.com)
+- 📫 Contacto: [LinkedIn]https://www.linkedin.com/feed/ · [Email](contacto@dataprospectiva.cl) · [Web](https://dataprospectiva.cl)
 
-> _Tip:_ Personaliza los enlaces anteriores con tus datos reales antes de publicar el repositorio.
+
 
 ---
 
