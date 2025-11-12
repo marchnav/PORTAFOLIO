@@ -14,7 +14,7 @@ Filosofía: orientar cada decisión a valor público y de negocio, con evidencia
 
 - 🌎 Valdivia, Chile
 - 🎯 Intereses: seguridad aplicada, automatización ligera, UX limpia, cumplimiento normativo (Chile)
-- 📫 Contacto: [LinkedIn]https://www.linkedin.com/feed/ · [Email](contacto@dataprospectiva.cl) · [Web](https://dataprospectiva.cl)
+- 📫 Contacto: [LinkedIn]https://www.linkedin.com/feed/ · [Email]contacto@dataprospectiva.cl · [Web]https://dataprospectiva.cl
 
 
 
