@@ -89,30 +89,7 @@ HTML, CSS, JS
 
 ---
 
-## 🖼️ Imagen / Banner
 
-Coloca tu banner en `docs/banner-portafolio.png` y GitHub lo mostrará en la parte superior (como en este README). También puedes usar un GIF corto o una **screenshot** en `docs/`.
-
-Ejemplo de referencia en Markdown:
-
-```md
-![Banner del portafolio](docs/banner-portafolio.png)
-```
-
----
-
-## 📂 Estructura recomendada del repo
-
-```
-Portafolio/
-├─ docs/
-│  ├─ banner-portafolio.png   # imagen o banner
-│  └─ capturas/               # screenshots de proyectos
-├─ projects/
-│  └─ README.md               # enlaces ampliados / notas técnicas
-├─ README.md                  # este archivo
-└─ LICENSE                    # licencia (opcional)
-```
 
 ---
 
@@ -120,7 +97,6 @@ Portafolio/
 
 - **README.md (este archivo):** visión general, proyectos y stack.  
 - **/projects:** detalles extendidos o notas de implementación.  
-- **/docs:** imágenes para el README (banners, capturas).
 
 ---
 
@@ -129,24 +105,6 @@ Portafolio/
 Este repositorio es un **portafolio personal**. Si quieres dar feedback o proponer mejoras, abre un **Issue** o contáctame por LinkedIn/Email.
 
 ---
-
-## 📜 Licencia
-
-Puedes dejar el código de ejemplo como **público** y los proyectos privados con enlaces a demos o capturas. Si lo prefieres, agrega una licencia:
-- **All Rights Reserved** (máximo control)
-- **MIT** (flexible, común en proyectos abiertos)
-
-> Decide según tu objetivo: visibilidad vs. control de uso.
-
----
-
-### Checklist rápida para publicar
-
-- [ ] Personalicé **nombre, links y contactos**.  
-- [ ] Subí **banner** a `docs/banner-portafolio.png`.  
-- [ ] Verifiqué que los **enlaces** a proyectos funcionan.  
-- [ ] Añadí capturas en `docs/capturas/` si el repo es privado.  
-- [ ] Elegí una **licencia** (o dejé constancia de derechos reservados).
 
 —
 _Última actualización: 2025‑11‑12_
