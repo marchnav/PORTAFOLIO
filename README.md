@@ -14,7 +14,7 @@ Filosofía: orientar cada decisión a valor público y de negocio, con evidencia
 
 - 🌎 Valdivia, Chile
 - 🎯 Intereses: seguridad aplicada, automatización ligera, UX limpia, cumplimiento normativo (Chile)
-- 📫 Contacto: [LinkedIn]https://www.linkedin.com/feed/ · [Email]contacto@dataprospectiva.cl · [Web]https://dataprospectiva.cl
+- 📫 Contacto: [LinkedIn]https://www.linkedin.com/feed/ · 📧contacto@dataprospectiva.cl · 🌎https://dataprospectiva.cl
 
 
 
@@ -22,32 +22,45 @@ Filosofía: orientar cada decisión a valor público y de negocio, con evidencia
 
 ## 🚀 Proyectos destacados
 
-> Reemplaza los enlaces por tus repos reales. La idea es mostrar **3 a 6** proyectos con una línea clara de valor.
 
-1. **Lexia Legal — Asistente IA**  
-   _Django + Postgres + Tailwind · Roles, permisos, CSP, despliegue NGINX_  
-   **Repo:** https://github.com/usuario/lexia-legal  
-   **Demo:** https://demo.lexia-legal.ejemplo
 
-2. **Data Prospectiva — Sitio & Blog**  
-   _Astro/Tailwind · SEO técnico, JSON‑LD, CI simple_  
-   **Repo:** https://github.com/usuario/data-prospectiva  
-   **Web:** https://data-prospectiva.ejemplo
+1. **Data Prospectiva — Sitio & Blog**  
+   _Astro/Tailwind · SEO técnico, JSON‑LD, CI simple_   
+   **Web:** https://dataprospectiva.cl
 
-3. **NoOne — Agencia Web (Landing)**  
-   _Next.js + Tailwind · Lighthouse 95+ · Animaciones sutiles_  
-   **Repo:** https://github.com/usuario/noone-landing  
-   **Web:** https://noone.ejemplo
+2. **Noone — Sitio**  
+   _Astro/Tailwind · SEO técnico, JSON‑LD, CI simple_   
+   **Web:** https://noone.cl
 
-4. **Agenda Reservas Multi‑Recurso**  
+3. **Gestión de Productos**  
+Python 3.13 (compatible 3.12+)
+Django 5.2.x
+SQLite (por defecto; fácilmente portable a PostgreSQL/MySQL)
+TailwindCSS vía CDN en templates públicos  
+   **Repo:** https://github.com/marchnav/M6_AE6_gestion_productos
+  
+
+4. **Gestión de Eventos**  
+Python 3.x
+Django 5.x
+SQLite como base de datos por defecto
+HTML + CSS (templates de Django)
+ 
+   **Repo:** https://github.com/marchnav/django_eventos 
+   
+
+5. **Agenda Reservas Multi‑Recurso**  
    _Django + SQLite · CRUD, auth, validaciones, media/static_  
    **Repo:** https://github.com/usuario/agenda-reservas
 
-5. **Eco‑Electrónicos — Inventario/Eventos**  
-   _Django + MySQL · ORM + SP, filtros, plantillas_  
-   **Repo:** https://github.com/usuario/eco-electronicos
+5. **Gestión Inventario**  
+Windows 10/11 con PowerShell
+Python 3.12+ y pip
+PostgreSQL 17 (servidor ejecutándose)
+HTML, CSS, JS
+   **Repo:** https://github.com/marchnav/M7_EVALUACION_MODULO_INVENTARIO_DJANGO
 
-> Si un proyecto es privado, enlaza a un **case study** o a capturas en `docs/`.
+
 
 ---
 
